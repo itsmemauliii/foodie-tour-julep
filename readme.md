@@ -41,7 +41,7 @@ This Julep workflow takes a list of cities and creates a one-day foodie tour for
 
 ## 🧠 Workflow Architecture
 Here's a high-level flowchart of how the foodie tour planner works:
-![flowchart](flowchart.png)
+![flowchart](flowchart.drawio.png)
 
 ---
 

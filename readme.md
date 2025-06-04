@@ -20,7 +20,7 @@ This Julep workflow takes a list of cities and creates a one-day foodie tour for
 
 ## Tech Used
 
-- [Julep](https://studio.julep.ai)
+- [Julep](https://dashboard.julep.ai/home/)
 - Weather API (built-in node)
 - OpenAI prompt nodes (no API key required)
 - Markdown for output formatting
@@ -39,9 +39,9 @@ This Julep workflow takes a list of cities and creates a one-day foodie tour for
 
 ---
 
-## 🔗 Live Workflow (Julep Studio)
-
-[👉 Click here to view the workflow in Julep](https://studio.julep.ai/your-workflow-link)
+## 🧠 Workflow Architecture
+Here's a high-level flowchart of how the foodie tour planner works:
+![flowchart](flowchart.png)
 
 ---
 
